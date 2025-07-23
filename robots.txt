@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://synthagear.shop/sitemap.xml
